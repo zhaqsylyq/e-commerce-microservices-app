@@ -8,7 +8,7 @@ spring:
     password: jax
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: create # update
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
   kafka:
