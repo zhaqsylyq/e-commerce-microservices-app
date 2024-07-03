@@ -35,3 +35,19 @@ The following microservices are implemented in this project:
 
 A comprehensive view of the entire backend architecture.
 ![ecommerce-microservices-architecture](https://github.com/zhaqsylyq/e-commerce-microservices-app/assets/71256573/943b4314-55d1-4a24-be96-a533fc771c58)
+
+
+## Getting Started
+
+### Prerequisites
+
+- Docker & Docker Compose
+- Java 11+
+- Maven
+
+### Installation
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/zhaqsylyq/e-commerce-microservices-app.git
+   cd e-commerce-microservices-app
